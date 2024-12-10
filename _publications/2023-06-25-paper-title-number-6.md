@@ -8,6 +8,6 @@ date: 2023-06-25
 venue: 'Remote Sensing'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://mapei319.github.io/Polyu_RCUAS.github.io/files/paper6.pdf'
-citation: 'Mingyang Lyu, Yibo Zhao, Chao Huang, Hailong Huang. (2023). &quot;AUnmanned Aerial Vehicles for Search and Rescue: A Survey.&quot; <i>Remote Sensing</i>. 15(13):3266.'
+citation: 'Mingyang Lyu, Yibo Zhao, Chao Huang, Hailong Huang. (2023). &quot;Unmanned Aerial Vehicles for Search and Rescue: A Survey.&quot; <i>Remote Sensing</i>. 15(13):3266.'
 ---
 
