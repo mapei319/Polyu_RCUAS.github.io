@@ -7,18 +7,18 @@
 main:
   - title: "Introduction"
     url: /Introduction/
-    
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Projects"
-    url: /teaching/    
-    
   - title: "Members"
     url: /portfolio/
+    
+  - title: "Projects"
+    url: /teaching/  
+
+  - title: "News and Events"
+    url: /talks/   
+     
+  - title: "Publications"
+    url: /publications/   
         
   - title: "Blog Posts"
     url: /year-archive/
