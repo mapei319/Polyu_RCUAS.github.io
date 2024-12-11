@@ -1,7 +1,7 @@
 ---
 title: "Development of an Assisted Navigation and Collision Avoidance System using Al and Location-based Service"
 collection: teaching
-type: "Undergraduate course"
+type: "External Research Projects"
 permalink: /teaching/2024-04-projects-1
 venue: "Hong Kong Smart Traffic Fund"
 date: 2024-04-01
