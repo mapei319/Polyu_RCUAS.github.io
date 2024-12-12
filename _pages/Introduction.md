@@ -11,7 +11,7 @@ redirect_from:
 
 Research Centre of Unmanned Autonomous Systems (RCUAS)
 ======
-![RCUAS](https://mapei319.github.io/Polyu_RCUAS.github.io/images/RCUAS-2.png)
+![RCUAS](https://mapei319.github.io/Polyu_RCUAS.github.io/images/RCUAS-2.png)<br/>
 The fast development of urbanization and smart cities introduce urgent needs on the UAS to work in complex urbanized areas, such as the UGV, UAV, and UUV. Significantly, the GBA have strong demands for UAS, with applications ranging from intelligent transportation to intelligent manufacturing. Unlike the field environments with clear space and low traffic density where are commonly investigated scenarios by the existing research institutes, the densely urbanized scenarios introduce many additional but also fundamental challenges to the UAS. Fortunately, navigation and perceptions in urban canyons are the strong expertise of PolyU. In the past decades, PolyU devoted itself to solving the navigation problem in dense urban canyons and achieved fruitful recognition from both the academic and industry fields. The navigation research achievements from PolyU attracted the attention of industry. Moreover, PolyU also accumulated abundant research achievements in UAVs with applications to infrastructure inspection.
 
 UAS is a research scope that can be widely applied across several important research institutes in PolyU, such as RISUD, SCRI, RIAIoT, and RIAM. The RCUAS will strive to enable these research institutes to achieve their objectives by providing physical UASs as integration platforms for various research and development projects and impactful applications. The proposed relationships between the RCUAS and other PolyU research institutes and research centres and their expected areas of impact are illustrated in the following figure.
@@ -29,10 +29,8 @@ To be a leading research centre for the research and development of UASs and the
   
 Available facilities - UAV
 ======
-VICON - indoor motion capture system
-![UAV](https://mapei319.github.io/Polyu_RCUAS.github.io/images/UAV.png)
+VICON - indoor motion capture system<br/>![UAV](https://mapei319.github.io/Polyu_RCUAS.github.io/images/UAV.png)
 
 Available facilities - UGV
 ======
-Autonomous driving test platform
-![UGV](https://mapei319.github.io/Polyu_RCUAS.github.io/images/UGV.png)
+Autonomous driving test platform<br/>![UGV](https://mapei319.github.io/Polyu_RCUAS.github.io/images/UGV.png)
