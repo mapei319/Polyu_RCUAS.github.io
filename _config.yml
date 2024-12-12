@@ -39,9 +39,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  Facebook         : "https://www.facebook.com/AAE.PolyU"
-  Youtube          : "https://www.youtube.com/channel/UCJVLizuvJxsQeN54MQRtAOA"
-  Instagram        : "https://www.instagram.com/polyuaae/"
+  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -53,15 +51,15 @@ author:
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/AAE.PolyU"
+  facebook         : "/AAE.PolyU"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/polyuaae/"
+  instagram        : "/polyuaae/"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "/company/polyuaae/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/channel/UCJVLizuvJxsQeN54MQRtAOA"
+  youtube          : "/channel/UCJVLizuvJxsQeN54MQRtAOA"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
