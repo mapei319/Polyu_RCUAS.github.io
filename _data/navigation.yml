@@ -6,7 +6,7 @@
 
 main:
   - title: "Introduction"
-    url: /cv/
+    url: /Introduction/
 
   - title: "Members"
     url: /portfolio/
