@@ -4,4 +4,4 @@ excerpt: "Head and Chair Professor of Aeronautical Engineering, Associate Direct
 collection: portfolio
 ---
 
-office: R829<br/>Phone: 3400 2522<br/>Email: cywen@polyu.edu.hk
+Office: R829<br/>Phone: 3400 2522<br/>Email: cywen@polyu.edu.hk
