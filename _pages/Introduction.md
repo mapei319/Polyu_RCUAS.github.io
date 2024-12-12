@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Introduction"
-permalink: /cv/
+permalink: /Introduction/
 author_profile: true
 redirect_from:
   - /resume
@@ -31,9 +31,9 @@ To be a leading research centre for the research and development of UASs and the
 Available facilities - UAV
 ======
 VICON - indoor motion capture system
-![RCUAS](https://mapei319.github.io/Polyu_RCUAS.github.io/images/RCUAS-2.png)
+![UAV](https://mapei319.github.io/Polyu_RCUAS.github.io/images/UAV.png)
 
 Available facilities - UGV
 ======
 Autonomous driving test platform
-![RCUAS](https://mapei319.github.io/Polyu_RCUAS.github.io/images/RCUAS-2.png)
+![UGV](https://mapei319.github.io/Polyu_RCUAS.github.io/images/UGV.png)
