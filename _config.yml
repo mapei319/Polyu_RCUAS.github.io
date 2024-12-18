@@ -52,8 +52,6 @@ author:
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : "/AAE.PolyU"
-  youtube          : "/channel/UCJVLizuvJxsQeN54MQRtAOA"
-  linkedin         : "/company/polyuaae/"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -61,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : "/polyuaae/"
   lastfm           : # Username
-  #linkedin         : "/company/polyuaae/"
+  linkedin         : "https://www.linkedin.com/company/polyuaae/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  #youtube          : "https://www.youtube.com/channel/UCJVLizuvJxsQeN54MQRtAOA"
+  youtube          : "https://www.youtube.com/channel/UCJVLizuvJxsQeN54MQRtAOA"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
